@@ -1,0 +1,6 @@
+framework module Pods_XJGrowthRecord_Tests {
+  umbrella header "Pods-XJGrowthRecord_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

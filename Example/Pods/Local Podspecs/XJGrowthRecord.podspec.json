@@ -1,0 +1,22 @@
+{
+  "name": "XJGrowthRecord",
+  "version": "0.1.0",
+  "summary": "A short description of XJGrowthRecord.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jin284748511/XJGrowthRecord",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jin284748511": "507626758@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jin284748511/XJGrowthRecord.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XJGrowthRecord/Classes/**/*"
+}
